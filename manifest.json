@@ -1,0 +1,19 @@
+{
+  "name": "Mój Prywatny Claude",
+  "short_name": "Mój Claude",
+  "description": "Prywatny interfejs do Claude AI",
+  "start_url": "/Claude-api/",
+  "scope": "/Claude-api/",
+  "display": "standalone",
+  "background_color": "#080810",
+  "theme_color": "#080810",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/zapachmielu-byte/Claude-api/main/icon.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
